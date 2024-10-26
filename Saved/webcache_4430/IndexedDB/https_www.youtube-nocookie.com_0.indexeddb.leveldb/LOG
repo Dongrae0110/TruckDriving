@@ -1,0 +1,8 @@
+2024/05/19-21:03:17.483 229c Reusing MANIFEST C:/Users/ljg99/Downloads/EuroTruck -0517/EuroTruck - 복사본/EuroTruck - 복사본/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/19-21:03:17.484 229c Recovering log #10
+2024/05/19-21:03:17.485 229c Reusing old log C:/Users/ljg99/Downloads/EuroTruck -0517/EuroTruck - 복사본/EuroTruck - 복사본/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000010.log 
+2024/05/19-21:06:59.820 fb0 Level-0 table #14: started
+2024/05/19-21:06:59.821 fb0 Level-0 table #14: 0 bytes OK
+2024/05/19-21:06:59.822 fb0 Delete type=0 #10
+2024/05/19-21:06:59.823 fb0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/19-21:06:59.823 fb0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
