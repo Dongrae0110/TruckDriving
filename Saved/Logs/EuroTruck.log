@@ -23061,3 +23061,20 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.02-06.36.37:859][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.11.02-06.36.37:876][ 78]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.11.02-06.36.37:876][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.02-06.39.10:112][117]LogSlate: Window 'WB_LoadMenu' being destroyed
+[2024.11.02-06.39.10:120][117]LogSlate: Window 'WB_LoadMenu' being destroyed
+[2024.11.02-06.39.10:128][117]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.11.02-06.39.10:128][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.02-06.39.10:137][117]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.11.02-06.39.10:137][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.02-06.43.38:582][ 14]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_LoadMenu.WB_LoadMenu
+[2024.11.02-06.43.38:582][ 14]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.02-06.43.38:582][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.02-06.43.38:597][ 14]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.02-06.43.38:597][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.02-06.48.55:467][539]LogSlate: Window 'WB_LoadMenu' being destroyed
+[2024.11.02-06.48.55:475][539]LogSlate: Window 'WB_LoadMenu' being destroyed
+[2024.11.02-06.48.55:483][539]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.11.02-06.48.55:483][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.02-06.48.55:493][539]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.11.02-06.48.55:493][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
