@@ -22966,3 +22966,93 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.02-06.00.50:683][660]LogSlate: Window 'FirstMap' being destroyed
 [2024.11.02-06.00.50:688][660]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
 [2024.11.02-06.00.50:688][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.02-06.01.54:445][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.11.02-06.01.54:706][159]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TruckTrailer/FirstMap_Auto2
+[2024.11.02-06.01.54:706][159]LogSavePackage: Moving '../../../../../../Users/user/Desktop/Driving Simulation/TruckDriving/Saved/FirstMap_Auto2A7D2DEF04B5218C6964EBAAAF615F5CB.tmp' to '../../../../../../Users/user/Desktop/Driving Simulation/TruckDriving/Saved/Autosaves/Game/TruckTrailer/FirstMap_Auto2.umap'
+[2024.11.02-06.01.54:707][159]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/user/Desktop/Driving Simulation/TruckDriving/Saved/Autosaves/Game/TruckTrailer/FirstMap_Auto2.umap is in the /Temp path, will not scan.
+[2024.11.02-06.01.54:707][159]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/TruckTrailer/FirstMap_Auto2 is in the /Temp path, will not scan.
+[2024.11.02-06.01.54:707][159]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/TruckTrailer/FirstMap_Auto2 is in the /Temp path, will not scan.
+[2024.11.02-06.01.54:707][159]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TruckTrailer/FirstMap' took 0.271
+[2024.11.02-06.01.54:708][159]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.271
+[2024.11.02-06.17.09:195][783]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.055 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6708 files in 8506 folders with total size 1905 MiB.
+[2024.11.02-06.19.36:979][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.11.02-06.19.39:938][639]LogSlate: Window 'Save Content' being destroyed
+[2024.11.02-06.19.39:944][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-06.19.40:020][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.11.02-06.19.40:284][639]LogSavePackage: Moving output files for package: /Game/TruckTrailer/FirstMap
+[2024.11.02-06.19.40:285][639]LogSavePackage: Moving '../../../../../../Users/user/Desktop/Driving Simulation/TruckDriving/Saved/FirstMap5DAE238242A7EF44275A75812D15E0C6.tmp' to '../../../../../../Users/user/Desktop/Driving Simulation/TruckDriving/Content/TruckTrailer/FirstMap.umap'
+[2024.11.02-06.19.40:294][639]LogFileHelpers: All files are already saved.
+[2024.11.02-06.19.40:294][639]LogFileHelpers: Saving map 'FirstMap' took 0.304
+[2024.11.02-06.19.40:297][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 353 ms (total: 2.47 sec)
+[2024.11.02-06.19.40:298][639]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TruckTrailer/FirstMap.FirstMap
+[2024.11.02-06.19.40:298][639]Cmd: MAP LOAD FILE="../../../../../../Users/user/Desktop/Driving Simulation/TruckDriving/Content/TruckTrailer/FirstMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.11.02-06.19.40:298][639]LightingResults: New page: Lighting Build
+[2024.11.02-06.19.40:298][639]LoadErrors: New page: Loading map: FirstMap.umap
+[2024.11.02-06.19.40:324][639]LogWorld: UWorld::CleanupWorld for FirstMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.02-06.19.40:324][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.02-06.19.40:324][639]MapCheck: New page: Map Check
+[2024.11.02-06.19.40:324][639]LightingResults: New page: Lighting Build
+[2024.11.02-06.19.40:337][639]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.02-06.19.40:345][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.11.02-06.19.40:442][639]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstMap'.
+[2024.11.02-06.19.40:442][639]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.02-06.19.40:442][639]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.02-06.19.40:442][639]LogAIModule: Creating AISystem for world FirstMap
+[2024.11.02-06.19.40:665][639]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.02-06.19.40:680][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.11.02-06.19.40:686][639]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.02-06.19.40:686][639]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2024.11.02-06.19.40:695][639]AssetCheck: New page: Asset Save: FirstMap
+[2024.11.02-06.19.40:695][639]LogContentValidation: Display: Validating /Script/Engine.World /Game/TruckTrailer/FirstMap.FirstMap
+[2024.11.02-06.19.40:768][639]LogShaderCompilers: Display: ================================================
+[2024.11.02-06.19.40:768][639]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.02-06.19.40:768][639]LogShaderCompilers: Display: Total job queries 938, among them cache hits 643 (68.55%)
+[2024.11.02-06.19.40:768][639]LogShaderCompilers: Display: Tracking 295 distinct input hashes that result in 186 distinct outputs (63.05%)
+[2024.11.02-06.19.40:768][639]LogShaderCompilers: Display: RAM used: 7.00 MiB of 1.60 GiB budget. Usage: 0.43%
+[2024.11.02-06.19.40:768][639]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.02-06.19.40:768][639]LogShaderCompilers: Display: Shaders Compiled: 38
+[2024.11.02-06.19.40:768][639]LogShaderCompilers: Display: Jobs assigned 38, completed 38 (100%)
+[2024.11.02-06.19.40:768][639]LogShaderCompilers: Display: Average time worker was idle: 56.85 s
+[2024.11.02-06.19.40:768][639]LogShaderCompilers: Display: Time job spent in pending queue: average 0.32 s, longest 1.02 s
+[2024.11.02-06.19.40:768][639]LogShaderCompilers: Display: Job execution time: average 0.61 s, max 1.92 s
+[2024.11.02-06.19.40:768][639]LogShaderCompilers: Display: Job life time (pending + execution): average 0.94 s, max 2.36
+[2024.11.02-06.19.40:768][639]LogShaderCompilers: Display: Shader code size: average 36.445 KiB, min 4.008 KiB, max 95.754 KiB
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.80 s
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display: Average processing rate: 7.92 jobs/sec
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display: Total thread time: 13.871 s
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display: Total thread preprocess time: 3.531 s
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display: Percentage time preprocessing: 25.46%
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display: Effective parallelization: 2.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.90 sec, max 1.90 sec, min 1.90 sec)
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.39 sec, max 0.65 sec, min 0.25 sec)
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display:                     TVirtualTextureVSBaseColorNormalSpecular (compiled    6 times, average 0.37 sec, max 0.51 sec, min 0.28 sec)
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.37 sec, max 0.49 sec, min 0.25 sec)
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.79% of total time (compiled    6 times, average 0.39 sec, max 0.65 sec, min 0.25 sec)
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display:                     TVirtualTextureVSBaseColorNormalSpecular - 16.14% of total time (compiled    6 times, average 0.37 sec, max 0.51 sec, min 0.28 sec)
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.06% of total time (compiled    6 times, average 0.35 sec, max 0.52 sec, min 0.24 sec)
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.67% of total time (compiled    1 times, average 1.90 sec, max 1.90 sec, min 1.90 sec)
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display:                     TVirtualTexturePSBaseColorNormalSpecular - 9.80% of total time (compiled    6 times, average 0.23 sec, max 0.41 sec, min 0.17 sec)
+[2024.11.02-06.19.40:769][639]LogShaderCompilers: Display: ================================================
+[2024.11.02-06.19.47:890][102]LogViewport: Scene viewport resized to 447x169, mode Windowed.
+[2024.11.02-06.20.08:812][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-06.20.08:930][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.02-06.20.09:201][134]LogSavePackage: Moving output files for package: /Game/TruckTrailer/FirstMap
+[2024.11.02-06.20.09:201][134]LogSavePackage: Moving '../../../../../../Users/user/Desktop/Driving Simulation/TruckDriving/Saved/FirstMap69256C4C46BCCB6418071090CEF46E9A.tmp' to '../../../../../../Users/user/Desktop/Driving Simulation/TruckDriving/Content/TruckTrailer/FirstMap.umap'
+[2024.11.02-06.20.09:210][134]LogFileHelpers: All files are already saved.
+[2024.11.02-06.20.09:210][134]LogFileHelpers: Saving map 'FirstMap' took 0.333
+[2024.11.02-06.20.09:213][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 401 ms (total: 2.87 sec)
+[2024.11.02-06.20.09:217][134]AssetCheck: New page: Asset Save: FirstMap
+[2024.11.02-06.20.09:217][134]LogContentValidation: Display: Validating /Script/Engine.World /Game/TruckTrailer/FirstMap.FirstMap
+[2024.11.02-06.20.09:768][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-06.20.09:830][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.11.02-06.20.10:095][171]LogSavePackage: Moving output files for package: /Game/TruckTrailer/FirstMap
+[2024.11.02-06.20.10:095][171]LogSavePackage: Moving '../../../../../../Users/user/Desktop/Driving Simulation/TruckDriving/Saved/FirstMap6B8D11FD42A8A4175C4E778E7B042D1B.tmp' to '../../../../../../Users/user/Desktop/Driving Simulation/TruckDriving/Content/TruckTrailer/FirstMap.umap'
+[2024.11.02-06.20.10:103][171]LogFileHelpers: All files are already saved.
+[2024.11.02-06.20.10:103][171]LogFileHelpers: Saving map 'FirstMap' took 0.297
+[2024.11.02-06.20.10:107][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 338 ms (total: 3.21 sec)
+[2024.11.02-06.20.10:110][171]AssetCheck: New page: Asset Save: FirstMap
+[2024.11.02-06.20.10:110][171]LogContentValidation: Display: Validating /Script/Engine.World /Game/TruckTrailer/FirstMap.FirstMap
