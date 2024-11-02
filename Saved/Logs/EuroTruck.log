@@ -1218,3 +1218,123 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.02-06.14.51:399][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 168 ms)
 [2024.11.02-06.14.51:400][345]AssetCheck: New page: Asset Save: MainMenu
 [2024.11.02-06.14.51:400][345]LogContentValidation: Display: Validating /Script/Engine.World /Game/Menus/MainMenu.MainMenu
+[2024.11.02-06.21.47:154][552]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.11.02-06.21.47:159][552]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.11.02-06.21.47:162][552]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.11.02-06.21.47:167][553]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.11.02-06.21.52:355][159]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_KING
+[2024.11.02-06.21.52:359][159]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.11.02-06.21.57:104][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-06.21.57:138][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/MainMenu" FILE="../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.02-06.21.57:167][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.11.02-06.21.57:171][719]LogSavePackage: Moving output files for package: /Game/Menus/MainMenu
+[2024.11.02-06.21.57:171][719]LogSavePackage: Moving '../../../../../../Users/user/Desktop/TruckDriving/Saved/MainMenuEF8B66DE4F814372EC162F879489BCD4.tmp' to '../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap'
+[2024.11.02-06.21.57:175][719]LogFileHelpers: Saving map 'MainMenu' took 0.037
+[2024.11.02-06.21.57:178][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 242 ms)
+[2024.11.02-06.21.57:179][719]AssetCheck: New page: Asset Save: MainMenu
+[2024.11.02-06.21.57:179][719]LogContentValidation: Display: Validating /Script/Engine.World /Game/Menus/MainMenu.MainMenu
+[2024.11.02-06.23.02:718][968]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.11.02-06.23.02:723][968]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.11.02-06.23.02:726][968]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.11.02-06.23.02:731][969]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.11.02-06.23.08:353][629]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_HAHA
+[2024.11.02-06.23.08:357][629]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.11.02-06.23.10:896][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-06.23.10:939][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/MainMenu" FILE="../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.02-06.23.10:970][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.11.02-06.23.10:975][914]LogSavePackage: Moving output files for package: /Game/Menus/MainMenu
+[2024.11.02-06.23.10:975][914]LogSavePackage: Moving '../../../../../../Users/user/Desktop/TruckDriving/Saved/MainMenu5CEFACFF4DBB903A295C91B4FB671417.tmp' to '../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap'
+[2024.11.02-06.23.10:979][914]LogFileHelpers: Saving map 'MainMenu' took 0.041
+[2024.11.02-06.23.10:982][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 328 ms)
+[2024.11.02-06.23.10:983][914]AssetCheck: New page: Asset Save: MainMenu
+[2024.11.02-06.23.10:983][914]LogContentValidation: Display: Validating /Script/Engine.World /Game/Menus/MainMenu.MainMenu
+[2024.11.02-06.23.11:154][933]LogSlate: Took 0.001284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.11.02-06.23.22:501][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-06.23.22:557][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/MainMenu" FILE="../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.02-06.23.22:588][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.02-06.23.22:592][139]LogSavePackage: Moving output files for package: /Game/Menus/MainMenu
+[2024.11.02-06.23.22:592][139]LogSavePackage: Moving '../../../../../../Users/user/Desktop/TruckDriving/Saved/MainMenuEF674EB947015DA0281D77A69B550B4E.tmp' to '../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap'
+[2024.11.02-06.23.22:596][139]LogFileHelpers: Saving map 'MainMenu' took 0.039
+[2024.11.02-06.23.22:600][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 427 ms)
+[2024.11.02-06.23.22:601][139]AssetCheck: New page: Asset Save: MainMenu
+[2024.11.02-06.23.22:601][139]LogContentValidation: Display: Validating /Script/Engine.World /Game/Menus/MainMenu.MainMenu
+[2024.11.02-06.23.23:131][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-06.23.23:173][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/MainMenu" FILE="../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.02-06.23.23:202][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.11.02-06.23.23:206][203]LogSavePackage: Moving output files for package: /Game/Menus/MainMenu
+[2024.11.02-06.23.23:206][203]LogSavePackage: Moving '../../../../../../Users/user/Desktop/TruckDriving/Saved/MainMenuDEEC1D10428628C5B8DEA6820E151076.tmp' to '../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap'
+[2024.11.02-06.23.23:210][203]LogFileHelpers: Saving map 'MainMenu' took 0.038
+[2024.11.02-06.23.23:214][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 510 ms)
+[2024.11.02-06.23.23:215][203]AssetCheck: New page: Asset Save: MainMenu
+[2024.11.02-06.23.23:215][203]LogContentValidation: Display: Validating /Script/Engine.World /Game/Menus/MainMenu.MainMenu
+[2024.11.02-06.23.24:354][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-06.23.24:389][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/MainMenu" FILE="../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.02-06.23.24:416][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.02-06.23.24:419][335]LogSavePackage: Moving output files for package: /Game/Menus/MainMenu
+[2024.11.02-06.23.24:420][335]LogSavePackage: Moving '../../../../../../Users/user/Desktop/TruckDriving/Saved/MainMenuBE785A6C4F7B5D9EB2DE658E13906C63.tmp' to '../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap'
+[2024.11.02-06.23.24:424][335]LogFileHelpers: Saving map 'MainMenu' took 0.036
+[2024.11.02-06.23.24:427][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 584 ms)
+[2024.11.02-06.23.24:428][335]AssetCheck: New page: Asset Save: MainMenu
+[2024.11.02-06.23.24:428][335]LogContentValidation: Display: Validating /Script/Engine.World /Game/Menus/MainMenu.MainMenu
+[2024.11.02-06.23.39:196][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-06.23.39:241][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/MainMenu" FILE="../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.02-06.23.39:271][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.11.02-06.23.39:274][760]LogSavePackage: Moving output files for package: /Game/Menus/MainMenu
+[2024.11.02-06.23.39:275][760]LogSavePackage: Moving '../../../../../../Users/user/Desktop/TruckDriving/Saved/MainMenu5F0125824843188BC9E8569AA69374F5.tmp' to '../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap'
+[2024.11.02-06.23.39:279][760]LogFileHelpers: Saving map 'MainMenu' took 0.039
+[2024.11.02-06.23.39:283][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 671 ms)
+[2024.11.02-06.23.39:284][760]AssetCheck: New page: Asset Save: MainMenu
+[2024.11.02-06.23.39:284][760]LogContentValidation: Display: Validating /Script/Engine.World /Game/Menus/MainMenu.MainMenu
+[2024.11.02-06.23.39:902][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-06.23.39:956][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/MainMenu" FILE="../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.02-06.23.39:984][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.11.02-06.23.39:988][834]LogSavePackage: Moving output files for package: /Game/Menus/MainMenu
+[2024.11.02-06.23.39:988][834]LogSavePackage: Moving '../../../../../../Users/user/Desktop/TruckDriving/Saved/MainMenu20D1409C45D083EFEF4AF1B8DFC3C05F.tmp' to '../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap'
+[2024.11.02-06.23.39:992][834]LogFileHelpers: Saving map 'MainMenu' took 0.037
+[2024.11.02-06.23.39:996][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 764 ms)
+[2024.11.02-06.23.39:996][834]AssetCheck: New page: Asset Save: MainMenu
+[2024.11.02-06.23.39:996][834]LogContentValidation: Display: Validating /Script/Engine.World /Game/Menus/MainMenu.MainMenu
+[2024.11.02-06.23.49:997][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.02-06.23.50:953][310]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.02-06.23.50:969][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.11.02-06.23.50:975][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.11.02-06.23.50:982][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.11.02-06.23.52:309][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.02-06.23.53:535][464]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.02-06.23.53:549][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.11.02-06.23.53:559][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.11.02-06.23.53:565][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.11.02-06.24.00:746][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-06.24.00:773][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_LoadMenu" FILE="../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/WB_LoadMenu.uasset" SILENT=true
+[2024.11.02-06.24.00:775][275]LogSavePackage: Moving output files for package: /Game/Menus/WB_LoadMenu
+[2024.11.02-06.24.00:775][275]LogSavePackage: Moving '../../../../../../Users/user/Desktop/TruckDriving/Saved/WB_LoadMenu71C662B2445681161E5727A4D1BCDED9.tmp' to '../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/WB_LoadMenu.uasset'
+[2024.11.02-06.24.00:781][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 799 ms)
+[2024.11.02-06.24.00:781][275]AssetCheck: New page: Asset Save: WB_LoadMenu
+[2024.11.02-06.24.00:781][275]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Menus/WB_LoadMenu.WB_LoadMenu
+[2024.11.02-06.24.10:313][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-06.24.10:337][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/MainMenu" FILE="../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.02-06.24.10:367][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.02-06.24.10:371][409]LogSavePackage: Moving output files for package: /Game/Menus/MainMenu
+[2024.11.02-06.24.10:371][409]LogSavePackage: Moving '../../../../../../Users/user/Desktop/TruckDriving/Saved/MainMenuCE642A9E426ADE867CC6EAADDC38B3CA.tmp' to '../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/MainMenu.umap'
+[2024.11.02-06.24.10:376][409]LogFileHelpers: Saving map 'MainMenu' took 0.038
+[2024.11.02-06.24.10:380][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 866 ms)
+[2024.11.02-06.24.10:381][409]AssetCheck: New page: Asset Save: MainMenu
+[2024.11.02-06.24.10:381][409]LogContentValidation: Display: Validating /Script/Engine.World /Game/Menus/MainMenu.MainMenu
+[2024.11.02-06.24.15:802][933]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.11.02-06.24.15:807][933]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.11.02-06.24.15:809][933]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.11.02-06.24.15:814][934]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.11.02-06.24.16:610][ 19]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2024.11.02-06.24.16:614][ 19]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.11.02-06.24.19:343][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.02-06.24.19:392][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/NewWidgetBlueprint" FILE="../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/NewWidgetBlueprint.uasset" SILENT=true
+[2024.11.02-06.24.19:394][346]LogSavePackage: Moving output files for package: /Game/Menus/NewWidgetBlueprint
+[2024.11.02-06.24.19:394][346]LogSavePackage: Moving '../../../../../../Users/user/Desktop/TruckDriving/Saved/NewWidgetBlueprint4CD11A0443405848C7F6CBBEF2C0BE2E.tmp' to '../../../../../../Users/user/Desktop/TruckDriving/Content/Menus/NewWidgetBlueprint.uasset'
+[2024.11.02-06.24.19:401][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 923 ms)
+[2024.11.02-06.24.19:402][346]AssetCheck: New page: Asset Save: NewWidgetBlueprint
+[2024.11.02-06.24.19:402][346]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Menus/NewWidgetBlueprint.NewWidgetBlueprint
+[2024.11.02-06.24.25:208][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.02-06.24.26:698][ 33]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.02-06.24.26:713][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.11.02-06.24.26:719][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.11.02-06.24.26:725][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
