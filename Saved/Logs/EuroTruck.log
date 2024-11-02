@@ -23056,3 +23056,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.02-06.20.10:107][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 338 ms (total: 3.21 sec)
 [2024.11.02-06.20.10:110][171]AssetCheck: New page: Asset Save: FirstMap
 [2024.11.02-06.20.10:110][171]LogContentValidation: Display: Validating /Script/Engine.World /Game/TruckTrailer/FirstMap.FirstMap
+[2024.11.02-06.36.37:859][ 78]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_LoadMenu.WB_LoadMenu
+[2024.11.02-06.36.37:859][ 78]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.02-06.36.37:859][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.02-06.36.37:876][ 78]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.02-06.36.37:876][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
