@@ -1549,3 +1549,201 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.09-03.25.47:905][699]AssetCheck: New page: Asset Save: FirstMap
 [2024.11.09-03.25.47:905][699]LogContentValidation: Display: Validating /Script/Engine.World /Game/TruckTrailer/FirstMap.FirstMap
 [2024.11.09-03.25.52:740][ 39]LogViewport: Scene viewport resized to 447x169, mode Windowed.
+[2024.11.09-03.27.07:706][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.11.09-03.27.07:838][549]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.09-03.27.07:844][549]LogWorldPartition: ULevel::OnLevelLoaded(EndingMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.11.09-03.27.07:844][549]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.09-03.27.07:844][549]LogWorldPartition: UWorldPartition::Initialize : World = EndingMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.09-03.27.08:559][549]LogChaos: Display: Input trimesh contains 8 bad triangles.
+[2024.11.09-03.27.08:616][549]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.08:947][549]LogBlueprint: Warning: [AssetLog] C:\Users\user\Desktop\Driving Simulation\TruckDriving\Content\canbrokeVehicle\Blueprint\AI_Car1.uasset: [Compiler] Get SkeletalMesh : Usage of 'SkeletalMesh' has been deprecated. Use USkeletalMeshComponent::GetSkeletalMeshAsset() or GetSkinnedAsset() instead.
+[2024.11.09-03.27.08:948][549]LogBlueprint: Warning: [AssetLog] C:\Users\user\Desktop\Driving Simulation\TruckDriving\Content\canbrokeVehicle\Blueprint\AI_Car1.uasset: [Compiler] Get SkeletalMesh : Usage of 'Get Skeletal Mesh' has been deprecated. Use USkeletalMeshComponent::GetSkeletalMeshAsset() or GetSkinnedAsset() instead.
+[2024.11.09-03.27.08:951][549]LogBlueprint: Warning: [AssetLog] C:\Users\user\Desktop\Driving Simulation\TruckDriving\Content\canbrokeVehicle\Blueprint\AI_Car1.uasset: [Compiler] Get SkeletalMesh : Usage of 'SkeletalMesh' has been deprecated. Use USkeletalMeshComponent::GetSkeletalMeshAsset() or GetSkinnedAsset() instead.
+[2024.11.09-03.27.08:951][549]LogBlueprint: Warning: [AssetLog] C:\Users\user\Desktop\Driving Simulation\TruckDriving\Content\canbrokeVehicle\Blueprint\AI_Car1.uasset: [Compiler] Get SkeletalMesh : Usage of 'Get Skeletal Mesh' has been deprecated. Use USkeletalMeshComponent::GetSkeletalMeshAsset() or GetSkinnedAsset() instead.
+[2024.11.09-03.27.09:000][549]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.09:306][549]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.09:363][549]LogChaos: Display: Input trimesh contains 5 bad triangles.
+[2024.11.09-03.27.09:644][549]LogChaos: Display: Input trimesh contains 18 bad triangles.
+[2024.11.09-03.27.10:120][549]LogChaos: Display: Input trimesh contains 21 bad triangles.
+[2024.11.09-03.27.10:174][549]LogContentBundle: [EndingMap(Standalone)] Creating new contrainer.
+[2024.11.09-03.27.10:174][549]LogWorldPartition: Display: WorldPartition initialize took 2.33 sec
+[2024.11.09-03.27.10:262][549]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TruckTrailer/EndingMap.EndingMap
+[2024.11.09-03.27.10:263][549]Cmd: MAP LOAD FILE="../../../../../../Users/user/Desktop/Driving Simulation/TruckDriving/Content/TruckTrailer/EndingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.11.09-03.27.10:263][549]LightingResults: New page: Lighting Build
+[2024.11.09-03.27.10:263][549]LoadErrors: New page: Loading map: EndingMap.umap
+[2024.11.09-03.27.10:328][549]LogWorld: UWorld::CleanupWorld for FirstMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.09-03.27.10:328][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.09-03.27.10:328][549]MapCheck: New page: Map Check
+[2024.11.09-03.27.10:328][549]LightingResults: New page: Lighting Build
+[2024.11.09-03.27.10:345][549]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.09-03.27.10:364][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.11.09-03.27.10:366][549]LogWorld: UWorld::CleanupWorld for EndingMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.09-03.27.10:374][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.09-03.27.10:383][549]LogContentBundle: [EndingMap(Standalone)] Deleting container.
+[2024.11.09-03.27.10:447][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.11.09-03.27.10:459][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.11.09-03.27.10:523][549]LogAudio: Display: Audio Device (ID: 1) registered with world 'EndingMap'.
+[2024.11.09-03.27.10:523][549]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.09-03.27.10:524][549]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.09-03.27.10:524][549]LogAIModule: Creating AISystem for world EndingMap
+[2024.11.09-03.27.10:524][549]LogWorldPartition: ULevel::OnLevelLoaded(EndingMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.11.09-03.27.10:524][549]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.09-03.27.10:524][549]LogWorldPartition: UWorldPartition::Initialize : World = EndingMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.09-03.27.10:704][549]LogChaos: Display: Input trimesh contains 8 bad triangles.
+[2024.11.09-03.27.10:740][549]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.11:001][549]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.11:286][549]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.11:332][549]LogChaos: Display: Input trimesh contains 5 bad triangles.
+[2024.11.09-03.27.11:586][549]LogChaos: Display: Input trimesh contains 18 bad triangles.
+[2024.11.09-03.27.12:018][549]LogChaos: Display: Input trimesh contains 21 bad triangles.
+[2024.11.09-03.27.12:065][549]LogContentBundle: [EndingMap(Standalone)] Creating new contrainer.
+[2024.11.09-03.27.12:065][549]LogWorldPartition: Display: WorldPartition initialize took 1.53 sec (total: 3.87 sec)
+[2024.11.09-03.27.12:225][549]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.09-03.27.12:239][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.11.09-03.27.12:243][549]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.09-03.27.12:245][549]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.895ms to complete.
+[2024.11.09-03.27.12:409][549]LogShaderCompilers: Display: ================================================
+[2024.11.09-03.27.12:409][549]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.09-03.27.12:409][549]LogShaderCompilers: Display: Total job queries 456, among them cache hits 228 (50.00%)
+[2024.11.09-03.27.12:409][549]LogShaderCompilers: Display: Tracking 228 distinct input hashes that result in 139 distinct outputs (60.96%)
+[2024.11.09-03.27.12:409][549]LogShaderCompilers: Display: RAM used: 5.52 MiB of 1.60 GiB budget. Usage: 0.34%
+[2024.11.09-03.27.12:409][549]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.09-03.27.12:409][549]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.11.09-03.27.12:410][549]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.11.09-03.27.12:410][549]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.11.09-03.27.12:410][549]LogShaderCompilers: Display: ================================================
+[2024.11.09-03.27.12:620][550]LogChaos: Display: Input trimesh contains 34 bad triangles.
+[2024.11.09-03.27.12:620][550]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.12:620][550]LogChaos: Display: Input trimesh contains 20 bad triangles.
+[2024.11.09-03.27.12:620][550]LogChaos: Display: Input trimesh contains 20 bad triangles.
+[2024.11.09-03.27.12:620][550]LogChaos: Display: Input trimesh contains 20 bad triangles.
+[2024.11.09-03.27.15:978][570]LogChaos: Display: Input trimesh contains 18 bad triangles.
+[2024.11.09-03.27.15:979][570]LogChaos: Display: Input trimesh contains 18 bad triangles.
+[2024.11.09-03.27.15:979][570]LogChaos: Display: Input trimesh contains 18 bad triangles.
+[2024.11.09-03.27.15:980][570]LogChaos: Display: Input trimesh contains 18 bad triangles.
+[2024.11.09-03.27.16:667][581]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.16:667][581]LogChaos: Display: Input trimesh contains 5 bad triangles.
+[2024.11.09-03.27.16:667][581]LogChaos: Display: Input trimesh contains 5 bad triangles.
+[2024.11.09-03.27.16:667][581]LogChaos: Display: Input trimesh contains 5 bad triangles.
+[2024.11.09-03.27.16:782][584]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.16:782][584]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.16:782][584]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.16:782][584]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.17:901][596]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2024.11.09-03.27.17:901][596]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.17:901][596]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.17:901][596]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.18:698][611]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.18:698][611]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.18:698][611]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.18:698][611]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.18:740][612]LogChaos: Display: Input trimesh contains 10 bad triangles.
+[2024.11.09-03.27.18:740][612]LogChaos: Display: Input trimesh contains 8 bad triangles.
+[2024.11.09-03.27.18:740][612]LogChaos: Display: Input trimesh contains 8 bad triangles.
+[2024.11.09-03.27.18:740][612]LogChaos: Display: Input trimesh contains 8 bad triangles.
+[2024.11.09-03.27.32:680][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.11.09-03.27.32:818][423]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.09-03.27.32:860][423]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TruckTrailer/FirstMap.FirstMap
+[2024.11.09-03.27.32:860][423]Cmd: MAP LOAD FILE="../../../../../../Users/user/Desktop/Driving Simulation/TruckDriving/Content/TruckTrailer/FirstMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.11.09-03.27.32:860][423]LightingResults: New page: Lighting Build
+[2024.11.09-03.27.32:860][423]LoadErrors: New page: Loading map: FirstMap.umap
+[2024.11.09-03.27.32:897][423]LogWorld: UWorld::CleanupWorld for EndingMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.09-03.27.32:898][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.09-03.27.32:907][423]LogContentBundle: [EndingMap(Standalone)] Deleting container.
+[2024.11.09-03.27.32:907][423]MapCheck: New page: Map Check
+[2024.11.09-03.27.32:907][423]LightingResults: New page: Lighting Build
+[2024.11.09-03.27.32:944][423]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.09-03.27.32:998][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.11.09-03.27.33:017][423]LogWorld: UWorld::CleanupWorld for FirstMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.09-03.27.33:019][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.09-03.27.33:039][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.09-03.27.33:049][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.11.09-03.27.33:139][423]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstMap'.
+[2024.11.09-03.27.33:139][423]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.09-03.27.33:140][423]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.09-03.27.33:140][423]LogAIModule: Creating AISystem for world FirstMap
+[2024.11.09-03.27.33:366][423]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.09-03.27.33:381][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.11.09-03.27.33:387][423]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.09-03.27.33:387][423]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2024.11.09-03.27.34:127][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.11.09-03.27.34:222][463]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.09-03.27.34:222][463]LogWorldPartition: ULevel::OnLevelLoaded(EndingMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.11.09-03.27.34:222][463]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.09-03.27.34:222][463]LogWorldPartition: UWorldPartition::Initialize : World = EndingMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.09-03.27.34:396][463]LogChaos: Display: Input trimesh contains 8 bad triangles.
+[2024.11.09-03.27.34:430][463]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.34:688][463]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.34:971][463]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.35:016][463]LogChaos: Display: Input trimesh contains 5 bad triangles.
+[2024.11.09-03.27.35:265][463]LogChaos: Display: Input trimesh contains 18 bad triangles.
+[2024.11.09-03.27.35:689][463]LogChaos: Display: Input trimesh contains 21 bad triangles.
+[2024.11.09-03.27.35:735][463]LogContentBundle: [EndingMap(Standalone)] Creating new contrainer.
+[2024.11.09-03.27.35:735][463]LogWorldPartition: Display: WorldPartition initialize took 1.51 sec (total: 5.38 sec)
+[2024.11.09-03.27.36:303][463]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TruckTrailer/EndingMap.EndingMap
+[2024.11.09-03.27.36:305][463]Cmd: MAP LOAD FILE="../../../../../../Users/user/Desktop/Driving Simulation/TruckDriving/Content/TruckTrailer/EndingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.11.09-03.27.36:305][463]LightingResults: New page: Lighting Build
+[2024.11.09-03.27.36:305][463]LoadErrors: New page: Loading map: EndingMap.umap
+[2024.11.09-03.27.36:373][463]LogWorld: UWorld::CleanupWorld for FirstMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.09-03.27.36:373][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.09-03.27.36:373][463]MapCheck: New page: Map Check
+[2024.11.09-03.27.36:373][463]LightingResults: New page: Lighting Build
+[2024.11.09-03.27.36:409][463]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.09-03.27.36:431][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.11.09-03.27.36:438][463]LogWorld: UWorld::CleanupWorld for EndingMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.09-03.27.36:445][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.09-03.27.36:451][463]LogContentBundle: [EndingMap(Standalone)] Deleting container.
+[2024.11.09-03.27.36:510][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.11.09-03.27.36:533][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.11.09-03.27.36:598][463]LogAudio: Display: Audio Device (ID: 1) registered with world 'EndingMap'.
+[2024.11.09-03.27.36:598][463]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.09-03.27.36:599][463]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.09-03.27.36:599][463]LogAIModule: Creating AISystem for world EndingMap
+[2024.11.09-03.27.36:599][463]LogWorldPartition: ULevel::OnLevelLoaded(EndingMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.11.09-03.27.36:599][463]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.09-03.27.36:599][463]LogWorldPartition: UWorldPartition::Initialize : World = EndingMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.09-03.27.36:774][463]LogChaos: Display: Input trimesh contains 8 bad triangles.
+[2024.11.09-03.27.36:811][463]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.37:069][463]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.37:355][463]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.37:402][463]LogChaos: Display: Input trimesh contains 5 bad triangles.
+[2024.11.09-03.27.37:652][463]LogChaos: Display: Input trimesh contains 18 bad triangles.
+[2024.11.09-03.27.38:082][463]LogChaos: Display: Input trimesh contains 21 bad triangles.
+[2024.11.09-03.27.38:130][463]LogContentBundle: [EndingMap(Standalone)] Creating new contrainer.
+[2024.11.09-03.27.38:130][463]LogWorldPartition: Display: WorldPartition initialize took 1.53 sec (total: 6.91 sec)
+[2024.11.09-03.27.38:308][463]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.11.09-03.27.38:403][463]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.094764s
+[2024.11.09-03.27.38:571][463]LogChaos: Display: Input trimesh contains 10 bad triangles.
+[2024.11.09-03.27.38:571][463]LogChaos: Display: Input trimesh contains 8 bad triangles.
+[2024.11.09-03.27.38:571][463]LogChaos: Display: Input trimesh contains 8 bad triangles.
+[2024.11.09-03.27.38:571][463]LogChaos: Display: Input trimesh contains 8 bad triangles.
+[2024.11.09-03.27.38:598][463]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.38:598][463]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.38:598][463]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.38:598][463]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.39:147][463]LogChaos: Display: Input trimesh contains 2 bad triangles.
+[2024.11.09-03.27.39:147][463]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.39:147][463]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.39:147][463]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.40:073][463]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.40:073][463]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.40:073][463]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.40:073][463]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.40:145][463]LogChaos: Display: Input trimesh contains 4 bad triangles.
+[2024.11.09-03.27.40:145][463]LogChaos: Display: Input trimesh contains 5 bad triangles.
+[2024.11.09-03.27.40:145][463]LogChaos: Display: Input trimesh contains 5 bad triangles.
+[2024.11.09-03.27.40:145][463]LogChaos: Display: Input trimesh contains 5 bad triangles.
+[2024.11.09-03.27.40:669][463]LogChaos: Display: Input trimesh contains 18 bad triangles.
+[2024.11.09-03.27.40:670][463]LogChaos: Display: Input trimesh contains 18 bad triangles.
+[2024.11.09-03.27.40:670][463]LogChaos: Display: Input trimesh contains 18 bad triangles.
+[2024.11.09-03.27.40:671][463]LogChaos: Display: Input trimesh contains 18 bad triangles.
+[2024.11.09-03.27.41:511][463]LogChaos: Display: Input trimesh contains 34 bad triangles.
+[2024.11.09-03.27.41:511][463]LogChaos: Display: Input trimesh contains 6 bad triangles.
+[2024.11.09-03.27.41:511][463]LogChaos: Display: Input trimesh contains 20 bad triangles.
+[2024.11.09-03.27.41:511][463]LogChaos: Display: Input trimesh contains 20 bad triangles.
+[2024.11.09-03.27.41:511][463]LogChaos: Display: Input trimesh contains 20 bad triangles.
+[2024.11.09-03.27.41:572][463]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.09-03.27.41:622][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.11.09-03.27.41:627][463]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.09-03.27.41:629][463]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.063ms to complete.
+[2024.11.09-03.27.41:633][463]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 5.329585s (3.329585s overbudget)
